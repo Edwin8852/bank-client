@@ -41,3 +41,8 @@
     "ajv": "^7.2.4"
   }
 }
+
+"dependencies": {
+  "react-router-dom": "^6.18.0"
+}
+
